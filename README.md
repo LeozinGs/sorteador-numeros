@@ -1,6 +1,6 @@
 # Projeto sorteador de números
 
-![Banner preview do site](Banner.PNG)
+![Banner preview do site](banner.PNG)
 
 ## Descrição do projeto
 Projeto feito para reforçar os conhecimentos básicos de Javascript, onde o desafio era fazer com que criassemos um algorítimo que gerasse uma quantidade de números aleatórios com base em dados fornecidos pelo usuário, tais como:
